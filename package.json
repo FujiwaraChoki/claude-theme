@@ -1,10 +1,19 @@
 {
-  "name": "claude-theme",
+  "name": "claude-theme-sami-hindi",
   "displayName": "Claude Theme for VS Code/Cursor/Windsurf",
   "description": "This theme mimics the colors of the Claude Desktop Theme (light & dark-mode)",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.102.0"
+  },
+  "publisher": "SamiHindi",
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FujiwaraChoki/claude-theme"
   },
   "categories": [
     "Themes"

@@ -5,9 +5,9 @@ A beautiful theme inspired by the Claude Desktop application, featuring both lig
 ## Screenshots
 
 <div>
-  <img src="repo/light-theme.png" alt="Claude Light Theme" width="600">
+  <img src="https://github.com/FujiwaraChoki/claude-theme/blob/main/repo/light-theme.png" alt="Claude Light Theme" width="600">
   <p>Claude Light Theme</p>
-  <img src="repo/dark-theme.png" alt="Claude Dark Theme" width="600">
+  <img src="https://github.com/FujiwaraChoki/claude-theme/blob/main/repo/dark-theme.png" alt="Claude Dark Theme" width="600">
   <p>Claude Dark Theme</p>
 </div>
 
