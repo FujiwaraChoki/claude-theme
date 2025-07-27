@@ -1,0 +1,26 @@
+{
+  "name": "claude-theme",
+  "displayName": "Claude Theme for VS Code/Cursor/Windsurf",
+  "description": "This theme mimics the colors of the Claude Desktop Theme (light & dark-mode)",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Claude Light",
+        "uiTheme": "vs",
+        "path": "./themes/Claude-light-color-theme.json"
+      },
+      {
+        "label": "Claude Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Claude-dark-color-theme.json"
+      }
+    ]
+  }
+}
