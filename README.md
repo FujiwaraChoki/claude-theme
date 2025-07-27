@@ -2,6 +2,15 @@
 
 A beautiful theme inspired by the Claude Desktop application, featuring both light and dark variants with carefully crafted color palettes using modern OKLCH color space.
 
+## Screenshots
+
+<div>
+  <img src="repo/light-theme.png" alt="Claude Light Theme" width="600">
+  <p>Claude Light Theme</p>
+  <img src="repo/dark-theme.png" alt="Claude Dark Theme" width="600">
+  <p>Claude Dark Theme</p>
+</div>
+
 ## Features
 
 - **Claude Light**: Clean, minimal light theme with warm whites and subtle contrasts
